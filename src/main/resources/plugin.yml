@@ -1,0 +1,15 @@
+name: Skyblockle
+version: 0.0.3
+author: Strqtz
+main: com.strqtz.skyblockle.Skyblockle
+api-version: 1.16
+commands:
+  giverogue:
+    description: Give youself a fancy new Rouge Sword btw is garbage
+    usage: /giverogue
+  giveaote:
+    description: Give youself a fancy new Aspect of the End
+    usage: /giveaote
+  sbgive:
+    description: Give yourself an item
+    usage: /sbgive
